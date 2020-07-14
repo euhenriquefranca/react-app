@@ -1,3 +1,7 @@
+<h1 align="center">  
+  <img src="https://github.com/euhenriquefranca/react-app/blob/master/public/demo.gif"/>
+</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
